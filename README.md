@@ -1,9 +1,8 @@
 # Managing .NET App Configuration With The Options Pattern In ASP.NET Core
 
-<hr/>
-
+### ` Configuration `
 <p align="center">
-    <img src="/img/configuration.png" alt="Pattern setup" title="Pattern setup">
+    <img src="/Img/configuration.png" alt="Pattern setup" title="Pattern setup">
 </p> 
 
 ### ` 💡 Topics Covered`
@@ -11,7 +10,7 @@
 
 ### `🔎 How to use?`
 
-<p>$ git clone https://github.com/devjamesbrandao/minimal-api-autenticacao.git</p>
+<p>$ git clone https://github.com/devjamesbrandao/options-pattern-dotnet.git</p>
 
 <p>$ dotnet restore</p>
 
