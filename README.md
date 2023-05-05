@@ -1,4 +1,4 @@
-<h1 align="center"><strong><h1 align="center"><strong>Managing .NET App Configuration With The Options Pattern In ASP.NET Core</strong></h1>
+# Managing .NET App Configuration With The Options Pattern In ASP.NET Core
 
 <hr/>
 
